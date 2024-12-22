@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskaramaman&label=Profile%20views&color=0e75b6&style=flat" alt="itskaramaman" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://karamjeet-singh.vercel.app/](https://karamjeet-singh.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://karamjeet-singh.vercel.app/](https://karamjeet-singh.vercel.app/)
 
 - 💬 Ask me about **React, JavaScript, Python, Django, Node.JS, MERN**
 
